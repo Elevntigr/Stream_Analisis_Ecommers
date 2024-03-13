@@ -3,4 +3,4 @@ pandas
 streamlit
 Babel
 seaborn
-openyxl
+openpyxl
