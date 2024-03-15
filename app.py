@@ -47,7 +47,7 @@ with st.sidebar:
     st.write("Ilham Febryan Ihsandi")
                  
     # Logo Image
-    st.image("D:/Analisis_Streamlit/logo.jpg")
+    st.image("./Analisis_Streamlit/logo.jpg")
 
     # Date Range
     start_date, end_date = st.date_input(
