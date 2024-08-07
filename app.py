@@ -8,7 +8,7 @@ import urllib
 from func import DataAnalyzer, BrazilMapPlotter
 from babel.numbers import format_currency
 sns.set(style='dark')
-st.set_option('deprecation.showPyplotGlobalUse', False)
+#st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # # membaca model
 # commerss_model=pickle.load(open('e-commerce.sav','rb'))
